@@ -2,7 +2,7 @@
 title: "writing_example"
 author: "BingyuSun"
 date: "9/17/2018"
-output: html_document
+output: github_document
 ---
 
 I'm an R Markdown document! 
